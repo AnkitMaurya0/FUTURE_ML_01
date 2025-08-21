@@ -319,7 +319,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 *AI-Powered Sales Forecasting Dashboard*
 
 📧 Contact: [mailto:ankitmaurya9626@gmail.com](mailto:ankitmaurya9626@gmail.com)  
-🔗 LinkedIn: [www.linkedin.com/in/ankit-kumar-b1177a32a](www.linkedin.com/in/ankit-kumar-b1177a32a/)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Kumar-blue?logo=linkedin)](https://www.linkedin.com/in/ankit-kumar-b1177a32a/)
+
 🐙 GitHub: [Your Repo](https://github.com/yourusername/FUTURE_ML_01)
 
 ---
