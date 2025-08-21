@@ -1,0 +1,26 @@
+# Core Data Analysis
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning / Forecasting
+scikit-learn
+prophet
+statsmodels
+xgboost
+
+# Jupyter Environment
+notebook
+jupyterlab
+ipykernel
+
+# Kaggle Datasets
+kagglehub
+kaggle
+
+# Excel / Power BI Support
+openpyxl
+pyarrow
