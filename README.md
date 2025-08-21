@@ -318,8 +318,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Future Interns - ML Task 01**  
 *AI-Powered Sales Forecasting Dashboard*
 
-📧 Contact: [your-email@domain.com](mailto:your-email@domain.com)  
-🔗 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
+📧 Contact: [your-email@domain.com](mailto:ankitmaurya9626@gmail.com)  
+🔗 LinkedIn: [Your Profile](www.linkedin.com/in/ankit-kumar-b1177a32a)  
 🐙 GitHub: [Your Repo](https://github.com/yourusername/FUTURE_ML_01)
 
 ---
